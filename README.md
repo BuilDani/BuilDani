@@ -1,9 +1,13 @@
-## Hi there 👋
+# Hello I'm BuilDani, aka Dani
+**`I'm a technology enthusiast who loves programming, developing, and fixing things`**
 
-<!--
-**BuilDani/BuilDani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I started my jorney learning by myself, I went for knowledge of programming and the ramifications it had. I got an special care for the Ctrio`(C, C++ and C#)`, engaged in others languages as I wanted to enter other projetcs, learned Python, 
 Here are some ideas to get you started:
+
+
+
+I'm  very active in codewars, I love speend time coding katas or 
+[![Codewars](https://www.codewars.com/users/BuilDani/badges/large)](https://www.codewars.com/users/BuilDani)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
