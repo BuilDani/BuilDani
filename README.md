@@ -10,7 +10,8 @@ If you want see my professional Portfolio where I list my capabilities and what 
 **I'm  very active in codewars, I love speend time coding katas or just solving problems or learning something new** 
 
 
-![Codewars](https://github.r2v.ch/codewars?user=BuilDani&top_languages=true)
+[![Codewars](https://github.r2v.ch/codewars?user=BuilDani&top_languages=true)](https://www.codewars.com/users/BuilDani)
+
 
 ---
 ---
