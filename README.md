@@ -10,8 +10,11 @@ If you want see my professional Portfolio where I list my capabilities and what 
 **I'm  very active in codewars, I love speend time coding katas or just solving problems or learning something new** 
 
 
-[![Codewars](https://github.r2v.ch/codewars?user=BuilDani&top_languages=true)](https://www.codewars.com/users/BuilDani)
+[![Codewars](https://github.r2v.ch/codewars?user=BuilDani&top_languages=true&theme=gradient_purple_dark_by_level)](https://www.codewars.com/users/BuilDani)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuilDani&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuilDani&langs_count=8))
 
 ---
 ---
