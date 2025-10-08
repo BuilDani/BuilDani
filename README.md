@@ -1,7 +1,7 @@
 # Hello I'm BuilDani, aka Dani
 **`I'm a technology enthusiast who loves programming, developing, and fixing things`**
 
-I started my jorney learning by myself, I went for knowledge of programming and the ramifications it had. I got an special care for the Ctrio`(C, C++ and C#)`, engaged in others languages as I wanted to enter other projetcs, learned Python, Node.JS, Lua, Java and someothers.
+I started my jorney learning by myself, I went for knowledge of programming and the ramifications it had. I got an special care for `(C++ and C#)`, engaged in others languages as I wanted to enter other projetcs, learned Python, Node.JS, Lua, Java and someothers.
 
 ---
 If you want see my professional Portfolio where I list my capabilities and what I know by bussines
